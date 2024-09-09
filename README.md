@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezaazw
-- 👀 I’m interested in opportunities of data analysis via Python Libraries, Tableau, Power BI, Looker Studio, 
+- 👀 I’m interested in opportunities of data analysis via Python Libraries, Tableau, Power BI and Looker Studio
 - 🌱 I’m currently learning Data Science from Illinois Institute of Technology, Chicago, USA
 - 💞️ I’m looking to collaborate on various topics of data science
 - 📫 Reach me at ezaazw@gmail.com or on LinkedIn: https://www.linkedin.com/in/ezaazw/
